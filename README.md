@@ -14,7 +14,7 @@
 
   <h1>
   доброгоДенечка
-  <img src="https://media.giphy.com/media/SUtKUblVAvwMkTvaiT/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/SUtKUblVAvwMkTvaiT/giphy.gif" width="300px"/>
 </h1>
 </div>
 
