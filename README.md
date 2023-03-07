@@ -40,3 +40,7 @@
   <h2>:dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a></h2>
   </div>
 <a href="https://github.com/datsishin/Strava">
+  
+  
+---
+### :hammer_and_wrench: Мой стек:
