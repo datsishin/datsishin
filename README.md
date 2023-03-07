@@ -36,10 +36,10 @@
   <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
 </ul>
 
-<img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30"/>
+
 
   <div align="center">
-  <h2>:dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a></h2>
+  <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30"/><h2>:dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a></h2>
   </div>
 <a href="https://github.com/datsishin/Strava">
   
