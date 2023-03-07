@@ -38,8 +38,10 @@
 <!-- <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30"/> -->
 
   <div id="body" align="center">
+<!--   ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a> -->
   ---
-  ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a>
+
+### :dog: Любимый pet-проект:
   </div>
   
   
