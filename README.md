@@ -35,7 +35,7 @@
   <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
 </ul>
 
-<div align="center">
+<div id="badges" align="center">
 ---
 ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a>
 </div>
