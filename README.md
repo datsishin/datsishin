@@ -34,6 +34,8 @@
 ### :hammer_and_wrench: Мой стек:
 
   <div>
+  Основные
+  Базы данных
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/JetBrains/logos/blob/master/web/pycharm/pycharm.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
