@@ -10,7 +10,7 @@
 </div>
 <img src="https://i.gifer.com/H3SO.gif">
 
-<img src="https://gifer.com/embed/H3SO">
+<img src="https://gifer.com/embed/H3SO.gif">
 
 <img src="https://komarev.com/ghpvc/?username=datsishin&style=flat-square&color=blue" alt=""/>
   
