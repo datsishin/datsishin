@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
-<!--   <img src="https://i.gifer.com/H3SO.gif> -->
-
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/egor-datsishin/">
@@ -10,13 +8,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=datsishin&style=flat-square&color=blue" alt=""/>
-  
-<!--    Добро пожаловать!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-<!-- 
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-<!-- </div> -->
+
 ---
 ### :man_technologist: Меня зовут Егор и я <del>триатлет</del> Python-разработчик!
 </div>
@@ -35,10 +27,9 @@
   <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
 </ul>
 
-<div id="badges" align="center">
+<align="center">
 ---
 ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a>
-</div>
   
 ---
 ### :hammer_and_wrench: Мой стек:
