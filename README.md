@@ -17,11 +17,9 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 <!-- </div> -->
-<div id="header" align="center">
-  :man_technologist: Меня зовут Егор и я <del>триатлет</del> Python-разработчик!
-  </div>
-  
- </div>
+---
+### :man_technologist: Меня зовут Егор и я <del>триатлет</del> Python-разработчик!
+
 <ul>
   <li>🐍 Пишу на Python, стираю на нем же</li>
   <li>📦 Знаю Django и DjangoRestFramework</li>
