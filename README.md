@@ -35,12 +35,10 @@
   <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
 </ul>
 
-<!-- <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30"/> -->
+<div align="center">
 ---
 ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a>
-<!--   ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a> -->
-<!-- </div> --> -->
-  
+</div>
   
 ---
 ### :hammer_and_wrench: Мой стек:
