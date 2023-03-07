@@ -9,6 +9,7 @@
   </a>
 </div>
 <img src="https://i.gifer.com/H3SO.gif>
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/H3SO" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
 
 <img src="https://komarev.com/ghpvc/?username=datsishin&style=flat-square&color=blue" alt=""/>
   
