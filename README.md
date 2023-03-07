@@ -39,7 +39,7 @@
 <!-- <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30"/> -->
 
   <div align="center">
-  <h2>### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a></h2>
+  ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a>
   </div>
 <a href="https://github.com/datsishin/Strava">
   
