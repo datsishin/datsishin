@@ -35,3 +35,7 @@
   <li>🕵🏻 Могу парсить через Selenium и BS4, могу не парсить</li>
   <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
 </ul>
+
+  <div align="center">
+  Любимый pet-проект
+  </div>
