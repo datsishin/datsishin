@@ -27,10 +27,8 @@
   <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
 </ul>
 
-<align="center">
 ---
 ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a>
-</align>
   
 ---
 ### :hammer_and_wrench: Мой стек:
