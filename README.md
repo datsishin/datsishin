@@ -37,7 +37,7 @@
 
 <!-- <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30"/> -->
 
-  <div align="center">
+  <div id="body" align="center">
   ---
   ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a>
   </div>
