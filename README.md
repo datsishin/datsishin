@@ -41,8 +41,8 @@
 <!--   ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a> -->
   ---
 
-### :dog: Любимый pet-проект:
-  </div>
+    ### :dog: Любимый pet-проект:
+      </div>
   
   
 ---
