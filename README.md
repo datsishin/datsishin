@@ -26,10 +26,10 @@
   <li>🕵🏻 Могу парсить через Selenium и BS4, могу не парсить</li>
   <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
 </ul>
-
+<div id="header" align="center">
 ---
 ### :dog: <a href="https://github.com/datsishin/Strava">Любимый pet-проект</a>
-  
+</div>
 ---
 ### :hammer_and_wrench: Мой стек:
 
