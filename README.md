@@ -37,5 +37,5 @@
 </ul>
 
   <div align="center">
-  ### Любимый pet-проект
+  :dog: Любимый pet-проект
   </div>
