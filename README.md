@@ -84,6 +84,6 @@
 
   ---
 
-### :fire: Ненмого статистики:
+### :fire: Немного статистики:
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=datsishin&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=datsishin&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
