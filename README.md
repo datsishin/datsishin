@@ -81,3 +81,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 </div>
+
+  ---
+
+### :fire: Ненмого статистики:
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=datsishin&theme=dark&background=000000)](https://git.io/streak-stats)
