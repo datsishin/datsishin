@@ -18,7 +18,7 @@
   <li>📦 Знаю Django и DjangoRestFramework</li>
   <li>🔗 Коннекчусь к SQLite, MySQL, MongoDB, PostgreSQL</li>
   <li>☁️ Владею Git, коммичу и пушу в github, от merge потею </li>
-  <li>💻 Бог linux-а на минималках настройках</li>
+  <li>💻 Бог linux-а на минималках</li>
   <li>🌍 DevOps на уровне VPN на VPS/VDS</li>
   <li>🐳 Могу развернуть Docker, свернуть не могу</li>
   <li>🤖 Творю ботов через pyTelegramBotAPI</li>
