@@ -9,6 +9,10 @@
     <a href="https://t.me/datsishin_egor/">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   
+<div id="instagram_badges" align="center">
+    <a href="https://instagram.com/datsishin/">
+  <img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+      
   </a>
 </div>
 
