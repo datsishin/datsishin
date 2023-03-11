@@ -16,10 +16,8 @@
 <div id="strava_badges" align="center">
     <a href="https://www.strava.com/athletes/53060566">
   <img src="https://img.shields.io/badge/Strava-orange?logo=Strava&logoColor=white&style=for-the-badge" alt="Strava Badge"/>
-    
-      
-  </a>
 </div>
+
 <br>
 <img src="https://komarev.com/ghpvc/?username=datsishin&style=flat-square&color=blue" alt=""/>
 
