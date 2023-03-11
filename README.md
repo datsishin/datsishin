@@ -14,8 +14,7 @@
   <img src="https://img.shields.io/badge/Instagram-orange?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
       
 <div id="strava_badges" align="center">
-    <a href="https://strava.com/datsishin/">
-  <img src="https://img.shields.io/badge/Strava-orange?logo=Strava&logoColor=white&style=for-the-badge" alt="Strava Badge"/>
+    
       
   </a>
 </div>
