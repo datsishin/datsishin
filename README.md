@@ -25,7 +25,7 @@
 ### :man_technologist: Меня зовут Егор и я <del>триатлет</del> Python-разработчик!
 <!-- </div> -->
 
-<ul type="disc">
+<ul>
   <li>🐍 Пишу на Python, стираю на нем же</li>
   <li>📦 Знаю Django и DjangoRestFramework</li>
   <li>🔗 Коннекчусь к SQLite, MySQL, MongoDB, PostgreSQL</li>
