@@ -11,7 +11,11 @@
   
 <div id="instagram_badges" align="center">
     <a href="https://instagram.com/datsishin/">
-  <img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-orange?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+      
+<div id="strava_badges" align="center">
+    <a href="https://strava.com/datsishin/">
+  <img src="https://img.shields.io/badge/Strava-orange?logo=Strava&logoColor=white&style=for-the-badge" alt="Strava Badge"/>
       
   </a>
 </div>
