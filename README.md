@@ -28,9 +28,11 @@
 <div id="lists" align="left">
 <ul type="disc">
   <li>🐍 Пишу на Python, стираю на нем же</li>
-  <li>📦 Знаю Django и DjangoRestFramework</li>
+  <li>📦 Знаю Django, DjangoRestFramework, Flask и таблицу умножения</li>
+  <li>🪄 Знаю SQLAlchemy, но не знаю 'алхеми' или 'алчеми'</li>
+  <li>📸 Фронтендер уровня jinji2 + bootstrap + dataTables</li>
   <li>🔗 Коннекчусь к SQLite, MySQL, MongoDB, PostgreSQL</li>
-  <li>☁️ Владею Git, коммичу и пушу в github, от merge потею </li>
+  <li>☁️ Владею Git, коммичу и пушу в github/gitlab, от merge потею, но делаю</li>
   <li>💻 Бог linux-а на минималках</li>
   <li>🌍 DevOps на уровне VPN и pet-проекта на VPS/VDS</li>
   <li>🐳 Могу развернуть проект из Docker, свернуть тоже могу</li>
@@ -40,13 +42,6 @@
   <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
 </ul>
 
-<br>
-<ul type="disc">
-  <li>👨🏻‍🎓 Закончил курс Python-разработчик от Яндекс.Практикум</li>
-  <li>📚 Прошел ряд курсов, от SQL до Git и TelegramAPI</li>
-  <li>🔨 Получаю практический опыт на pet-проектах</li>
-  <li>🕵🏻 Ищу возможность применить свои навыки в коммерческой разработке</li>
-</ul>
   </div>  
   
 ---
@@ -63,7 +58,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp; -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>
@@ -76,10 +71,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp; -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp; -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
