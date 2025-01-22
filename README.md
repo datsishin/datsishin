@@ -28,18 +28,18 @@
 <div id="lists" align="left">
 <ul type="disc">
   <li>🐍 Пишу на Python, стираю на нем же</li>
-  <li>📦 Знаю Django, DjangoRestFramework, Flask и таблицу умножения</li>
+  <li>📦 Знаю Django, DjangoRestFramework, FastAPI, Flask и таблицу умножения</li>
   <li>🪄 Знаю SQLAlchemy, но не знаю 'алхеми' или 'алчеми'</li>
-  <li>📸 Фронтендер уровня jinji2 + bootstrap + dataTables</li>
+  <li>📸 Фронтендер уровня jinji2 + bootstrap + dataTables + vuejs</li>
   <li>🔗 Коннекчусь к SQLite, MySQL, MongoDB, PostgreSQL</li>
   <li>☁️ Владею Git, коммичу и пушу в github/gitlab, от merge потею, но делаю</li>
-  <li>💻 Бог linux-а на минималках</li>
+  <li>💻 Бог linux-а на минималках, но на личный ПК боже упаси</li>
   <li>🌍 DevOps на уровне VPN и pet-проекта на VPS/VDS</li>
   <li>🐳 Могу развернуть проект из Docker, свернуть тоже могу</li>
   <li>🤖 Творю ботов через pyTelegramBotAPI</li>
   <li>✅ Дружу с любым API, если есть дока и интерес</li>
   <li>🕵🏻 Могу парсить через Selenium и BS4, могу не парсить</li>
-  <li>🎨 Рисую карты в Folium, сохраняю в Pillow</li>
+  <li>🎨 Рисую карты в Folium, сохраняю в Pillow, график через mMtplotlib тоже могу сделать</li>
 </ul>
 
   </div>  
